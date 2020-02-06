@@ -16,3 +16,5 @@ Inspired by other projects website, But the code is written by ourselves.
 - support multi theme color
 
 ![One Theme Book - screenshot - website theme - css html.png](screenshot1.png)
+
+Sample text generated using https://loremipsum.io/generator/?n=20&t=p.
