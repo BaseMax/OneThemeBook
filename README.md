@@ -4,6 +4,9 @@
 
 A web-bas document or book for technical and progrmming with a minimal theme project using HTML, CSS, JS.
 
+After review website of most programming languages. (e.g: Rust, Go, ...)
+I did decide to prepare first version of theme as below.
+
 Inspired by other projects website, But the code is written by ourselves.
 (Only colors extract from others)
 
